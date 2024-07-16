@@ -1,6 +1,6 @@
 This pacakge implements GPS-Net framework that integrates network regularization and pathway-kenerl methods for effective biomarker and pathway selection. 
 
-Userspecifed geneset can be used in the GPS-Net framework.
+User specifed genesets can be used in the GPS-Net framework.
 
 
 ## Installation
